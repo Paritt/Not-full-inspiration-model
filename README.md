@@ -1,1 +1,1 @@
-# Wyvern Project
+# Not-full-inspiration-model
